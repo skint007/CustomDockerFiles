@@ -1,4 +1,5 @@
 # We want to add curl to the ollama image
+# This is so we can preform health checks on the container
 FROM ollama/ollama:latest
 
 # Install curl
