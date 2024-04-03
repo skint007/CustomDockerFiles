@@ -1,5 +1,6 @@
 # Custom dockerfiles
 This is just a place for me to park my custom dockerfiles I use to customize other official images.
+I use these with Portainer.
 
 ## docker-compose.yml example
 ```yml
